@@ -6,6 +6,10 @@ library(data.table)
 # if organism specified -> does only output one list
 
 path="/home/stefan/bioinformatics/neap/getUniqueGeneName/"
+path = "/Users/stefanloipfinger/Documents/GitHub/Bacon/tools/getUniqueGeneName/"
+
+
+
 
 # input gene list
 args = commandArgs(trailingOnly=TRUE)

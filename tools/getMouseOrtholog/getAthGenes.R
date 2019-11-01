@@ -7,15 +7,20 @@ geneList <- args[1]
 mouseStrain <- args[2]
 strictMouseStrain <- args[3]
 
-geneList <- c("PAX1,TZSD,ZZ3, UI,P53,ALMS1,A2m,AAR2,ABCC10,A3GALT2,ABCC6")
-mouseStrain <- 'all'
-mouseStrain <- "MGI:2685279"
-strictMouseStrain <- FALSE
+#geneList <- c("PAX1,TZSD,ZZ3, UI,P53,ALMS1,A2m,AAR2,ABCC10,A3GALT2,ABCC6")
+#mouseStrain <- 'all'
+#mouseStrain <- "MGI:2685279"
+#strictMouseStrain <- FALSE
 
 
 #path = '/home/l/loipfingers/Desktop/self_neap/HMDC'
 path = '/home/stefan/bioinformatics/neap/getMouseOrtholog'
 pathGetGeneNames = '/home/stefan/bioinformatics/neap/getUniqueGeneName/'
+
+path = "/Users/stefanloipfinger/Documents/GitHub/Bacon/tools/getMouseOrtholog"
+pathGetGeneNames = "/Users/stefanloipfinger/Documents/GitHub/Bacon/tools/getUniqueGeneName/"
+
+
 
 # handle input
 geneList = gsub("\\s+", "", geneList, perl=TRUE)
@@ -60,7 +65,7 @@ for( ge in geneList) {
 
 searchTable <- data.frame(lapply(searchTable, as.character), stringsAsFactors=FALSE)
 
-mouseStrain <- "MGI:2685279"
+#mouseStrain <- "MGI:2685279"
 # get only certain mice strain
 mgiStrain = strsplit(mouseStrain,',')[[1]]   # filter by mgi
 mgiTable = searchTable[which(searchTable$mouseMGI_ID %in% mgiStrain),]

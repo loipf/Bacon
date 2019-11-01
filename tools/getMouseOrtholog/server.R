@@ -16,6 +16,7 @@ library(plotly)
 
 path = "/home/stefan/bioinformatics/neap/getMouseOrtholog/"
 #path = "/home/proj/biocluster/praktikum/neap_ss18/neapss18_geneexp/finishedScripts/getMouseOrtholog/"
+path = "/Users/stefanloipfinger/Documents/GitHub/Bacon/tools/getMouseOrtholog/"
 
 
 

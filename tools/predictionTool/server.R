@@ -5,6 +5,7 @@ library(crosstalk)
 
 
 scriptPath <- ("/home/proj/biocluster/praktikum/neap_ss18/neapss18_geneexp/finishedScripts/predictionTool/")
+scriptPath <- ("/Users/stefanloipfinger/Documents/GitHub/Bacon/tools/predictionTool/")
 source(paste0(scriptPath,"pred_plsrCADi/plsrCADi.R"))
 
 ### TO DO ###
@@ -84,7 +85,7 @@ server <- function(input, output) {
   ##### make predictions #####
   
   ### load test
-   predFile <<- read.table("/home/proj/biocluster/praktikum/neap_ss18/neapss18_geneexp/finishedScripts/predictionTool/example_cadi_pred.txt", header = TRUE)
+   predFile <<- read.table(paste0(scriptPath,"example_cadi_pred.txt"), header = TRUE)
   cols = colnames(predFile)[2:length(predFile)]
   output$buttonIfLabel <- renderUI({ selectInput("buttonIfLabel","compare with known class?",choices = c("-",cols))  })
   output$buttonMakePred <- renderUI({ actionButton("buttonMakePred", "start predictions") })

@@ -10,6 +10,7 @@ cadi_currPaperModel <- NULL
 
 
 scriptPath <- ("/home/proj/biocluster/praktikum/neap_ss18/neapss18_geneexp/finishedScripts/predictionTool/")
+scriptPath <- ("/Users/stefanloipfinger/Documents/GitHub/Bacon/tools/predictionTool/")
 
 
 

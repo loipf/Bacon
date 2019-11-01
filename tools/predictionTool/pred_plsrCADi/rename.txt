@@ -1,0 +1,6 @@
+
+
+- paper 151 genes, own 262
+
+
+- analysis made with comp=10 each, best one can be chosen later

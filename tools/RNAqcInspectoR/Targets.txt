@@ -1,0 +1,17 @@
+SampleName	Genotype	Celltype
+AAAACT	AAAACT	Control	naiveBC
+AAGATT	AAGATT	Control	naiveBC
+ATATAG	ATATAG	Control	naiveBC
+ATTACT	ATTACT	Control	naiveBC
+GTTTAT	GTTTAT	Control	naiveBC
+TAATGA	TAATGA	Control	naiveBC
+TGTTTA	TGTTTA	Control	naiveBC
+TTATTG	TTATTG	Control	naiveBC
+GCTAGA	GCTAGA	cRel	naiveBC
+TCTGCA	TCTGCA	cRel	naiveBC
+CCCACG	CCCACG	cRel	naiveBC
+CCGGAC	CCGGAC	cRel	naiveBC
+CGGTGG	CGGTGG	cRel	naiveBC
+GACCGC	GACCGC	cRel	naiveBC
+GCTCGC	GCTCGC	cRel	naiveBC
+GGCGTC	GGCGTC	cRel	naiveBC

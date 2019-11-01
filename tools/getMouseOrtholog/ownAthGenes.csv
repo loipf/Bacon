@@ -1,0 +1,2 @@
+input,geneID_human,geneID_mouse,mouseHumanConnection,diseaseConnection,humanDisCon,mouseDisCon,mouseMGI_ID,mouseStrain,mouseMP_ID,MPnames,athSpecificMalaCard
+A3GALT2,A3GALT2,A3galt2,n,,,,MGI:2685279,A3galt2<tm1.1Hjg>,,,

@@ -1,0 +1,735 @@
+MalaCard_ID,MalaCard_Name,OMIM_ID,DO_ID
+ATH013,Atherosclerosis Susceptibility,108725,DOID:1936
+ART004,Aortic Atherosclerosis,,DOID:10230
+GNR003,Generalized Atherosclerosis,,DOID:2347
+CRB008,Cerebral Atherosclerosis,,DOID:12720
+RNL008,Renal Artery Atheroma,,DOID:14092
+ATH012,"Atherosclerosis, Premature, with Deafness, Nephropathy, Diabetes Mellitus, Photomyoclonus, and Degenerative Neurologic Disease",209010,
+FGN001,Feigenbaum Bergeron Richardson Syndrome,,
+ART021,Arteriosclerosis,,DOID:2349
+ART140,"Arteries, Anomalies of",108000,DOID:0050828
+CRN018,Coronary Artery Anomaly,,DOID:3393
+CRN300,Coronary Heart Disease 1,607339,
+END072,Endotheliitis,,
+VSC007,Vascular Disease,,
+HRT032,Heart Disease,,DOID:1682
+CRB009,Cerebritis,,DOID:3431
+ISC006,Ischemic Heart Disease,,
+ISC004,Ischemia,,
+AGN016,Aging,502000,
+MYC007,Myocardial Infarction,608446,DOID:5844
+HYP805,"Hypercholesterolemia, Autosomal Dominant, 3",603776,
+DBT009,Diabetes Mellitus,,DOID:9351
+CRB039,Cerebrovascular Disease,,DOID:6713
+BDY004,Body Mass Index Quantitative Trait Locus 11,601665,DOID:9970
+BDY005,Body Mass Index Quantitative Trait Locus 9,602025,
+BDY019,Body Mass Index Quantitative Trait Locus 18,615457,
+BDY017,Body Mass Index Quantitative Trait Locus 14,612460,
+BDY015,Body Mass Index Quantitative Trait Locus 12,612362,
+BDY010,Body Mass Index Quantitative Trait Locus 4,607447,
+BDY011,Body Mass Index Quantitative Trait Locus 10,607514,
+BDY006,Body Mass Index Quantitative Trait Locus 8,603188,
+BDY012,Body Mass Index Quantitative Trait Locus 7,608410,
+HYP607,"Hypercholesterolemia, Familial",143890,DOID:13810
+ART022,Arthritis,,
+BLD140,"Blood Group, I System",110800,
+CRT016,Carotid Artery Disease,,DOID:3407
+THR024,Thrombosis,,DOID:0060903
+LPS004,Lupus Erythematosus,,DOID:8857
+RHM011,Rheumatoid Arthritis,180300,DOID:7148
+SYS001,Systemic Lupus Erythematosus,152700,DOID:9074
+HPT021,Hepatitis,,DOID:2237
+ANR040,Aneurysm,,
+KDN018,Kidney Disease,,
+PRP080,Peripheral Artery Disease,,DOID:0050830
+CMP080,"Complement Hyperactivation, Angiopathic Thrombosis, and Protein-Losing Enteropathy",226300,
+ANG054,Angina Pectoris,,
+PRD008,Periodontitis,,
+DBT026,"Diabetes Mellitus, Noninsulin-Dependent",125853,DOID:9352
+CHR089,Chronic Kidney Failure,,
+STR067,"Stroke, Ischemic",601367,DOID:3526
+ATR011,Atrial Fibrillation,,DOID:0060224
+URM002,Uremia,,DOID:4676
+ACT075,Acute Myocardial Infarction,,DOID:9408
+PRP027,Peripheral Vascular Disease,,
+CHL123,Chlamydia,,DOID:11263
+ALP042,"Alpha/beta T-Cell Lymphopenia with Gamma/delta T-Cell Expansion, Severe Cytomegalovirus Infection, and Autoimmunity",609889,
+HMZ003,Homozygous Familial Hypercholesterolemia,,
+OCL033,Oculocerebral Syndrome with Hypopigmentation,257800,
+ATM095,Autoimmune Disease,109100,
+HYP060,Hyperinsulinism,,DOID:2018
+ALZ034,Alzheimer Disease,104300,DOID:10652
+HYP595,"Hypertension, Essential",145500,DOID:10825
+ART016,Aortic Aneurysm,,DOID:3627
+FTT001,Fatty Liver Disease,,DOID:9452
+LPD008,Lipid Metabolism Disorder,,DOID:3146
+ABD014,Abdominal Obesity-Metabolic Syndrome 1,605552,DOID:14221
+CRN030,Coronary Stenosis,,DOID:4248
+CRT013,Carotid Stenosis,,DOID:13001
+LVR013,Liver Disease,,
+HYP066,Hyperglycemia,,DOID:4195
+PNM007,Pneumonia,,
+CNN005,Connective Tissue Disease,,
+INT074,Intracranial Arteriosclerosis,,DOID:13097
+GLC003,Glucose Intolerance,,DOID:10603
+HYP750,"Hypertriglyceridemia, Familial",145750,
+CNG034,Congestive Heart Failure,,DOID:6000
+PRT036,Peritonitis,,DOID:8283
+TNG002,Tangier Disease,205400,DOID:1388
+PRD007,Periodontal Disease,,DOID:3388
+CLC006,Calcinosis,,
+ACQ007,Acquired Immunodeficiency Syndrome,,
+SLP006,Sleep Apnea,,DOID:0050847
+ABD017,Abdominal Obesity-Metabolic Syndrome Quantitative Trait Locus 2,605572,DOID:0060611
+ART106,"Arterial Calcification, Generalized, of Infancy, 1",208000,
+BDY007,Body Mass Index Quantitative Trait Locus 1,606641,
+XNT003,Xanthomatosis,602247,DOID:3345
+RTN023,Retinitis,,DOID:3612
+GLC008,Glucose Metabolism Disease,,DOID:4194
+AST005,Asthma,600807,DOID:2841
+SPN225,Spondyloarthropathy 1,106300,DOID:7147
+DMN002,Dementia,,DOID:1307
+VSC011,Vasculitis,,
+ENC018,Encephalopathy,,
+STS003,Sitosterolemia,210250,DOID:0090019
+URN009,Urinary System Disease,,
+LPD010,Lipodystrophy,,
+SPN051,Spondylitis,,DOID:6590
+INT007,Intermediate Coronary Syndrome,,DOID:8805
+FBR046,"Fibrosis of Extraocular Muscles, Congenital, 1",135700,
+INF009,Inflammatory Spondylopathy,,DOID:12105
+PSR001,Psoriatic Arthritis,607507,DOID:9008
+NRP001,Neuropathy,,
+RHM027,Rheumatic Disease,,DOID:1575
+ANT006,Antiphospholipid Syndrome,,DOID:2988
+HYP724,"Hyperlipoproteinemia, Type Iii",617347,DOID:3145
+VSC002,Vascular Dementia,,DOID:8725
+CLL015,Collagen Disease,,
+CRN017,Coronary Thrombosis,,DOID:11847
+HYP555,"Hypertriglyceridemia, Transient Infantile",614480,
+MNT310,"Mental Retardation, X-Linked, Syndromic, Snyder-Robinson Type",309583,
+ATM052,Autoimmune Disease 1,607836,
+KWS002,Kawasaki Disease,611775,DOID:13378
+MCR115,Microvascular Complications of Diabetes 5,612633,DOID:8947
+PLY011,Polycystic Ovary Syndrome,,DOID:11612
+CNT035,Central Nervous System Disease,,
+HYP086,Hypothyroidism,,DOID:1459
+HYP266,Hypoxia,,
+INT002,Intermittent Claudication,,DOID:3669
+LCT022,Lecithin:cholesterol Acyltransferase Deficiency,245900,DOID:1391
+GT001,Gout,,DOID:13189
+ERY003,Erythema Multiforme,,DOID:0050185
+ART138,"Aortic Aneurysm, Familial Abdominal, 1",100070,DOID:7693
+HYP614,"Hyperlipidemia, Familial Combined",144250,DOID:13809
+CRD132,Cardiac Conduction Defect,115080,
+HYP732,Hyperalphalipoproteinemia 1,143470,
+ATN004,Autonomic Neuropathy,,DOID:11504
+RST023,"Resting Heart Rate, Variation in",607276,
+DFF018,Diffuse Dermal Angiomatosis,,
+MCL042,"Macular Degeneration, Age-Related, 1",603075,DOID:4448
+OST002,Osteoporosis,166710,DOID:11476
+BRC012,Brucellosis,,DOID:11077
+APN008,"Apnea, Obstructive Sleep",107650,DOID:0050848
+THL005,Thalassemia,,DOID:10241
+PSR002,Psoriasis,,DOID:8893
+BRG013,Buerger Disease,211480,DOID:12918
+HYP190,"Hypoalphalipoproteinemia, Primary",604091,
+TRN015,Transient Cerebral Ischemia,,
+CYT008,Cytomegalovirus Infection,,
+MYP006,Myopia,,DOID:11830
+HYP014,Hyperuricemia,,DOID:1920
+OVR063,Overnutrition,,
+GRW007,Growth Hormone Deficiency,,
+LMB062,Limb Ischemia,,DOID:0050852
+HPT025,Hepatic Lipase Deficiency,614025,
+BRN080,Brain Ischemia,,
+ENT004,Enthesopathy,,
+ANG037,Angiomatosis,,
+CTR119,"Cataract 32, Multiple Types",115650,DOID:0110227
+MNS002,Mini Stroke,,
+ATS285,Autosomal Semi-Dominant Severe Lipodystrophic Laminopathy,,
+HYP485,Hypercholesterolemia Due to Cholesterol 7alpha-Hydroxylase Deficiency,,
+WRN001,Werner Syndrome,277700,DOID:5688
+ACR007,Acromegaly,,DOID:2449
+AMY004,Amyloidosis,,DOID:9120
+ART023,Arthropathy,,
+HLC007,Helicobacter Pylori Infection,600263,
+CRB011,Cerebrotendinous Xanthomatosis,213700,DOID:4810
+HTC003,Hutchinson-Gilford Progeria Syndrome,176670,DOID:3911
+GLY013,Glycogen Storage Disease,,DOID:2747
+JNT002,Joint Disorders,,
+LYS012,Lysosomal Acid Lipase Deficiency,278000,DOID:14497
+END030,End Stage Renal Failure,,
+NNL002,Nonalcoholic Steatohepatitis,,
+HYP818,"Hypobetalipoproteinemia, Familial, 1",615558,DOID:1390
+RTN022,Retinal Vein Occlusion,,DOID:1727
+CRN074,Coronary Artery Aneurysm,,
+LPP002,Lipoprotein Glomerulopathy,611771,
+RTR011,Retroperitoneal Fibrosis,,
+ACT088,Acute Insulin Response,601676,
+BNM029,Bone Mineral Density Quantitative Trait Locus 15,613418,
+ART012,Aortitis,,
+BNM022,Bone Mineral Density Quantitative Trait Locus 8,611739,
+DFC001,Defective Apolipoprotein B-100,,
+FML018,Familial Mediterranean Fever,249100,DOID:2987
+HPT001,Hepatitis C,,DOID:1883
+ANR048,Aniridia 1,106210,DOID:12271
+SKN016,Skin Disease,,
+PSD087,Pseudoxanthoma Elasticum,264800,DOID:2738
+LNG099,Lung Disease,,
+VRL011,Viral Infectious Disease,,
+ABT001,Abetalipoproteinemia,200100,DOID:1386
+RSP006,Respiratory System Disease,,DOID:1579
+GST033,Gestational Diabetes,,DOID:11714
+SLP005,Sleep Disorder,,
+HMR039,"Hemorrhage, Intracerebral",614519,
+IMM136,Immune System Disease,,DOID:2914
+MCR113,Microvascular Complications of Diabetes 3,612624,
+LPD015,"Lipodystrophy, Familial Partial, Type 2",151660,DOID:11712
+HYP080,Hypogonadism,,DOID:1924
+HYP739,"Hyperlipoproteinemia, Type Iv",144600,DOID:1172
+ART115,Aortic Valve Disease 1,109730,
+HYP081,Hypolipoproteinemia,,DOID:1387
+SKN027,Skin Conditions,,
+PST011,Pustulosis of Palm and Sole,,DOID:4398
+PRD004,Prediabetes Syndrome,,DOID:11716
+ART008,Arteriosclerosis Obliterans,,DOID:5160
+CRN019,Coronary Artery Vasospasm,,DOID:11840
+MCR130,Microvascular Complications of Diabetes 6,612634,
+ARC023,Arcus Corneae,107800,DOID:11342
+MCR120,Microvascular Complications of Diabetes 7,612635,
+MCR133,Microvascular Complications of Diabetes 4,612628,
+ALR002,Al-Raqad Syndrome,616459,
+MDR006,Moderate and Severe Traumatic Brain Injury,,
+LMN005,Lmna-Related Cardiocutaneous Progeria Syndrome,,
+ANR038,Anorexia Nervosa 1,606788,
+CRT085,Carotid Intimal Medial Thickness 2,608447,
+CRB087,Cerebral Arteriosclerosis,,
+BLD137,Blood Group--Ahonen,110350,
+EPL164,Epilepsy,,DOID:1826
+MYC084,Mycobacterium Tuberculosis 1,607949,
+HPT016,Hepatitis B,,DOID:2043
+SYS005,Systemic Scleroderma,,
+MXD005,Mixed Connective Tissue Disease,,DOID:3492
+ART067,"Aortic Aneurysm, Familial Thoracic 1",607086,DOID:14004
+ART101,Aortic Valve Disease 2,614823,DOID:1712
+GLL020,Gallbladder Disease,,DOID:0060262
+PNC044,Pancreatitis,,DOID:4989
+VNW001,Von Willebrand's Disease,,DOID:12531
+THR092,Thrombophilia Due to Thrombin Defect,188050,
+SCL052,"Scleroderma, Familial Progressive",181750,
+NPH012,Nephrotic Syndrome,,DOID:1184
+PRT013,Portal Hypertension,,DOID:10762
+HYP083,Hypopituitarism,,DOID:9406
+PTN001,Patent Foramen Ovale,,DOID:13620
+THY032,Thyroiditis,,DOID:7166
+CRD223,Cardiac Arrhythmia,115000,
+INF037,Inflammatory Bowel Disease,,DOID:0050589
+THY030,Thyroid Gland Disease,,
+MYM013,Moyamoya Disease 1,252350,DOID:13099
+HMC014,Homocysteinemia,603174,DOID:9279
+FML035,Familial Hyperlipidemia,,DOID:1168
+ART031,Aortic Coarctation,,
+NPH010,Nephrosclerosis,,DOID:11664
+LKD015,"Leukodystrophy, Hypomyelinating, 3",260600,DOID:0060790
+HYP734,"Hypercholesterolemia, Autosomal Dominant, Type B",144010,
+HYP768,"Hyperlipoproteinemia, Type I",238600,
+BNS003,Binswanger's Disease,,
+CRT015,Carotid Artery Occlusion,,
+PDT035,Pediatric Systemic Lupus Erythematosus,,
+EST007,Estrogen Resistance,615363,
+HYP008,Hypertensive Retinopathy,,DOID:11561
+CRB088,Cerebral Atrophy,,
+CRN020,Coronary Restenosis,,DOID:4247
+VSC018,Visceral Steatosis,,
+TYM001,Tympanosclerosis,,DOID:1214
+FML330,Familial Lcat Deficiency,,
+GPS001,Gapo Syndrome,230740,
+ART110,Arteritic Anterior Ischemic Optic Neuropathy,,DOID:0050863
+FBR089,"Fibrosclerosis, Multifocal",228800,
+NST002,Nestor-Guillermo Progeria Syndrome,614008,
+PSD059,Pseudoxanthoma Elasticum-Like Disorder with Multiple Coagulation Factor Deficiency,610842,
+BLD163,"Blood Group, Dombrock System",616060,
+BLD138,Blood Group--Diego System,110500,
+BRS047,Breast Cancer,114480,
+PRS040,Prostate Cancer,176807,DOID:10286
+CYS001,Cystic Fibrosis,219700,DOID:1485
+INF038,Influenza,,DOID:8469
+MYL005,Myelofibrosis,254450,DOID:4971
+PLM129,"Pulmonary Disease, Chronic Obstructive",606963,
+HPT073,Hepatitis C Virus,609532,
+ANX010,Anxiety,607834,DOID:2030
+END044,Endometriosis,,
+CMM004,Common Variable Immunodeficiency,,DOID:12177
+LYM118,Lymphoma,,DOID:0060058
+SMT004,Smith-Lemli-Opitz Syndrome,270400,DOID:14692
+CHR012,Chronic Granulomatous Disease,,DOID:3265
+HMP029,Hemophilia a,306700,
+ALG028,Alagille Syndrome 1,118450,DOID:9245
+TMP003,Temporal Arteritis,187360,
+BRS051,Breast Disease,,DOID:3463
+LCL006,Localized Scleroderma,,DOID:8472
+GLN010,Glanzmann Thrombasthenia,273800,DOID:2219
+INT068,Intestinal Disease,,DOID:5295
+MTH009,Mouth Disease,,
+CRB175,"Cerebral Arteriopathy, Autosomal Dominant, with Subcortical Infarcts and Leukoencephalopathy, Type 1",125310,DOID:13945
+PTT048,"Pituitary Adenoma, Prolactin-Secreting",600634,DOID:5394
+PRP029,Porphyria,,DOID:13268
+HYP056,Hypoglycemia,,DOID:9993
+EXN002,Exanthem,,DOID:0050486
+MRB003,Morbid Obesity,,DOID:11981
+HMP007,Hemophilia,,
+GLM007,Glomerulonephritis,,DOID:2921
+GST044,Gastritis,,DOID:4029
+BRN019,Bernard-Soulier Syndrome,231200,DOID:2217
+PST028,Post-Traumatic Stress Disorder,,DOID:2055
+HRD002,Hereditary Angioedema,,DOID:14735
+PRS047,Prostatitis,,DOID:14654
+PLM034,Pulmonary Emphysema,,DOID:9675
+UND005,Undifferentiated Pleomorphic Sarcoma,,
+CRB172,"Cerebral Amyloid Angiopathy, Cst3-Related",105150,DOID:9246
+MYC008,Myocarditis,,
+NNR004,Nonarteritic Anterior Ischemic Optic Neuropathy,258660,DOID:12010
+THR015,Thrombophilia,,DOID:2452
+ART017,Aortic Disease,,
+THR100,"Thrombocytopenic Purpura, Autoimmune",188030,DOID:8924
+IMM158,Immune Suppression,146850,
+ANG015,Angioedema,,DOID:1558
+PLM010,Pulmonary Edema,,DOID:11396
+NPH009,Nephrolithiasis,,
+RTN018,Retinal Disease,,DOID:5679
+PYL005,Pyelonephritis,,DOID:11400
+ALP008,Alopecia,,
+CRT049,Critical Limb Ischemia,,
+ALK013,Alkaptonuria,203500,DOID:9270
+ALS001,Alstrom Syndrome,203800,DOID:0050473
+THR004,Thrombocytosis,,DOID:2228
+PRM006,Primary Biliary Cirrhosis,,DOID:12236
+THR001,Thrombocytopenia Due to Platelet Alloimmunization,,DOID:1587
+VNS003,Venous Insufficiency,,DOID:10128
+FML012,Familial Partial Lipodystrophy,,DOID:0050440
+OBS001,Obstructive Jaundice,,DOID:13603
+CHR005,Chorioamnionitis,,DOID:0050697
+CHL004,Cholelithiasis,,DOID:10211
+HYP806,"Hypertension, Early-Onset, Autosomal Dominant, with Severe Exacerbation in Pregnancy",605115,
+CCN002,Cocaine Abuse,,
+GNG011,Gingival Disease,,DOID:1483
+FCT001,Factor Viii Deficiency,134500,DOID:12134
+RNV001,Renovascular Hypertension,,DOID:1591
+DBT008,Diabetic Angiopathy,,DOID:11713
+ACT078,Acute Porphyria,,DOID:3133
+ISC002,Ischemic Optic Neuropathy,,
+CHR008,Choroiditis,,DOID:11406
+BRN108,Branchiootic Syndrome 1,602588,
+EPD070,Epidermoid Cysts,131600,
+THR035,Thrombasthenia,,
+RTN014,Retinal Artery Occlusion,,DOID:8483
+FSH001,Fish-Eye Disease,136120,
+HYP795,"Hypothyroidism, Congenital, Nongoitrous, 4",275100,
+LYM024,Lymphatic System Disease,,
+IRN002,Iron Metabolism Disease,,DOID:2351
+PRN037,Prinzmetal's Variant Angina,,
+SYS003,Systolic Heart Failure,,DOID:9651
+ADP001,Adiposis Dolorosa,103200,DOID:3928
+HYP794,"Hyperoxaluria, Primary, Type I",259900,
+PLS029,Plasminogen Activator Inhibitor-1 Deficiency,613329,
+HYP057,Hypervitaminosis D,,DOID:9971
+AND014,Androgenic Alopecia,,DOID:0050801
+AMR003,Amaurosis Fugax,,
+LPD021,"Lipodystrophy, Familial Partial, Type 3",604367,
+LPD035,"Lipodystrophy, Congenital Generalized, Type 4",613327,DOID:0111138
+ENC005,Encephalomalacia,,DOID:2034
+BLR024,"Biliary Cirrhosis, Primary, 1",109720,
+CYT004,Cytomegalic Inclusion Disease,,
+GND003,Gonadal Disease,,DOID:2277
+ACQ009,Acquired Metabolic Disease,,DOID:0060158
+EHL081,"Ehlers-Danlos Syndrome, Classic-Like",606408,
+ATY016,Atypical Werner Syndrome,,
+VRT003,Vertebrobasilar Insufficiency,,DOID:13003
+ART010,Arteriolosclerosis,,DOID:5162
+NRG005,Neurogenic Hypertension,,
+RNG031,Ring Chromosome Y Syndrome,,
+LPD040,"Lipodystrophy, Familial Partial, Type 1",608600,
+SLN001,Silent Myocardial Infarction,,DOID:5854
+STR035,Streptococcal Group a Invasive Disease,,
+LGP003,Logopenic Progressive Aphasia,,
+FLY003,Flynn-Aird Syndrome,136300,
+ART153,Arthrochalasia Ehlers-Danlos Syndrome,,
+ODN020,Odontoma-Dysphagia Syndrome,164330,
+SBC025,Subcortical Arteriosclerotic Encephalopathy,,
+ATR024,Atrial Fibrillation and Stroke,,
+LPT011,"Lipoatrophy with Diabetes, Leukomelanodermic Papules, Liver Steatosis, and Hypertrophic Cardiomyopathy",,
+RCT024,Reactive Angioendotheliomatosis,,
+DMN012,Dementia - Subcortical,,
+OST012,Osteoarthritis,,DOID:8398
+MYL069,"Myeloma, Multiple",254500,DOID:9538
+MLT020,Multiple Sclerosis,126200,DOID:2377
+GST053,Gastric Cancer,613659,DOID:5517
+INS024,Insulin-Like Growth Factor I,608747,
+PLM037,Pulmonary Hypertension,,DOID:6432
+FLL037,Follicular Lymphoma,,DOID:0050873
+PLY001,Polycythemia Vera,263300,DOID:8997
+LKM002,Leukemia,,DOID:1240
+MRF001,Marfan Syndrome,154700,DOID:14323
+ALP046,"Alport Syndrome, X-Linked",301050,DOID:10983
+MLD001,Melioidosis,615557,DOID:5052
+LVR012,Liver Cirrhosis,,DOID:5082
+CHG001,Chagas Disease,,DOID:12140
+BRN028,Brain Cancer,,DOID:1319
+NSP012,Nasopharyngeal Carcinoma,607107,DOID:9261
+SCH015,Schizophrenia,181500,DOID:5419
+WGN006,Wegener Granulomatosis,608710,DOID:12132
+ESS003,Essential Thrombocythemia,,DOID:2224
+JVN010,Juvenile Rheumatoid Arthritis,,
+HRP006,Herpes Simplex,,DOID:8566
+DWN001,Down Syndrome,190685,DOID:14250
+CNN003,Conn's Syndrome,,
+ATN007,"Autoinflammation, Lipodystrophy, and Dermatosis Syndrome",256040,DOID:0050553
+LYM017,Lyme Disease,,DOID:11729
+HYD006,Hydrocephalus,,DOID:10908
+LYM007,Lymphangioleiomyomatosis,606690,DOID:3319
+ADL010,Adult Respiratory Distress Syndrome,,DOID:11394
+PLM164,"Pulmonary Hypertension, Primary, 1",178600,
+CNJ013,Conjunctivitis,,DOID:6195
+HSH003,Hashimoto Thyroiditis,140300,DOID:7188
+BRT054,Brittle Bone Disorder,603828,DOID:12347
+SPN186,Spinal Cord Injury,,
+TYP007,Typhoid Fever,,DOID:13258
+TKY002,Takayasu Arteritis,207600,DOID:2508
+LPD012,Lipoid Congenital Adrenal Hyperplasia,201710,DOID:0050811
+THN009,"Thanatophoric Dysplasia, Type I",187600,DOID:13481
+CLC063,Celiac Disease 1,212750,DOID:10608
+GST045,Gastroenteritis,,DOID:2326
+ADL030,Adult-Onset Still's Disease,,DOID:14256
+SCR008,Scrub Typhus,,DOID:13371
+CRT072,Creutzfeldt-Jakob Disease,123400,DOID:5435
+RCT015,Reactive Arthritis,,DOID:6196
+ALC007,Alcohol Dependence,103780,DOID:0050741
+MDD011,Mood Disorder,,DOID:3324
+APP008,Appendicitis,,DOID:8337
+LPT001,Leptospirosis,,DOID:2297
+FCT002,Factor Xi Deficiency,612416,DOID:2229
+HYP020,Hyperprolactinemia,615555,DOID:12700
+CNT047,Contact Dermatitis,,DOID:2773
+GNG013,Gingivitis,,DOID:3087
+SRC025,Sarcoidosis 1,181000,DOID:11335
+HPT003,Hepatitis a,,DOID:12549
+KRT001,Keratoconjunctivitis Sicca,,DOID:12895
+ACT210,Acute Respiratory Distress Syndrome,,
+MYS005,Myositis,160750,
+HMR004,Hemorrhagic Fever with Renal Syndrome,,DOID:11266
+CRD119,Cardiac Arrest,,DOID:0060319
+ALC004,Alcohol Abuse,,DOID:1574
+INT066,Interstitial Lung Disease,,DOID:3082
+SNS014,Sinusitis,,
+KRT019,"Keratitis, Hereditary",148190,DOID:4677
+ALC006,Alcoholic Hepatitis,,DOID:12351
+CMM005,Common Cold,,DOID:10459
+CMR001,Camurati-Engelmann Disease,131300,DOID:4997
+KBK002,Kabuki Syndrome 1,147920,DOID:0060473
+FCT007,Factor Vii Deficiency,227500,DOID:2215
+DFC004,Deficiency Anemia,,DOID:2355
+MCR129,Microvascular Complications of Diabetes 1,603933,DOID:13207
+PRP030,Purpura,,DOID:3326
+NRV006,Nervous System Cancer,,DOID:3093
+ACT074,Acute Lymphocytic Leukemia,,DOID:9952
+SYN007,Synovitis,,DOID:2703
+MCS002,Mucositis,,DOID:0080178
+TXC005,Toxic Shock Syndrome,,DOID:14115
+HMR003,Hemorrhagic Disease,,DOID:2213
+MCP040,Mucopolysaccharidosis-Plus Syndrome,617303,DOID:12798
+SPN052,Spondyloarthropathy,,DOID:1123
+CTR002,Cataract,,
+MNT002,Mental Depression,,DOID:1596
+IDP011,Idiopathic Interstitial Pneumonia,,DOID:2797
+3HY005,3-Hydroxyacyl-Coa Dehydrogenase Deficiency,231530,
+ALL010,Allergic Contact Dermatitis,,DOID:3042
+ACN002,Acanthosis Nigricans,100600,DOID:3138
+PLY018,Polycythemia,,DOID:8432
+DBT010,Diabetic Neuropathy,,DOID:9743
+INF032,Infertility,,DOID:5223
+LGG001,Legg-Calve-Perthes Disease,150600,DOID:14415
+ALZ049,Alzheimer Disease 2,104310,DOID:0110035
+PRC002,Paracoccidioidomycosis,,DOID:12662
+BCT007,Bacterial Meningitis,,DOID:9470
+PLS007,Plasmodium Falciparum Malaria,,DOID:14067
+CHL067,Cholecystitis,,DOID:1949
+HYP069,Hyperparathyroidism,,DOID:13543
+INT030,Intracranial Aneurysm,,DOID:10941
+PLY019,Polyneuropathy,,DOID:1389
+FLR002,Filariasis,,DOID:1080
+CMP010,Complex Regional Pain Syndrome,,DOID:3223
+OVR049,Ovarian Disease,,DOID:1414
+PLM012,Pulmonary Sarcoidosis,,DOID:13406
+END033,Endocarditis,,DOID:10314
+ACT105,Acute Mountain Sickness,,
+SJG008,Sjogren Syndrome,270150,DOID:12894
+GLY060,Glycogen Storage Disease Ia,232200,DOID:2749
+LKD001,Leukodystrophy,,DOID:10579
+CYS018,Cystitis,,DOID:1679
+CNS004,Constipation,,DOID:2089
+ERD001,Erdheim-Chester Disease,,DOID:4329
+SLC006,Silicosis,,DOID:10325
+EXT034,Extrinsic Allergic Alveolitis,,
+BRN106,Burns,,
+ISL003,Isolated Growth Hormone Deficiency,,DOID:0060870
+PTT009,Pituitary Gland Disease,,
+INF034,Infective Endocarditis,,DOID:0060000
+BCT002,Bacterial Vaginosis,,DOID:3385
+DBN001,Dubin-Johnson Syndrome,237500,DOID:12308
+BNF002,Bone Fracture,,
+PRN019,Perinatal Necrotizing Enterocolitis,,DOID:8677
+LYM027,Lymphopenia,,
+RTN016,Retinal Degeneration,,DOID:8466
+IGR001,"Ige Responsiveness, Atopic",147050,
+PLS006,Plasmodium Vivax Malaria,,DOID:12978
+PLV003,Pelvic Inflammatory Disease,,DOID:1003
+MGR003,Migraine with Aura,,DOID:10024
+NPH018,Nephrogenic Systemic Fibrosis,,
+EXF001,Exfoliation Syndrome,177650,DOID:13641
+CYS010,Cystinosis,,DOID:1064
+MCN007,Meconium Aspiration Syndrome,,DOID:11049
+IRN001,Iron Deficiency Anemia,,DOID:11758
+BRN022,Bronchiectasis,,DOID:9563
+AGG001,Aggressive Periodontitis,,DOID:1474
+AMN001,Amenorrhea,,DOID:13938
+SPS003,Spastic Diplegia,,DOID:10965
+PRC013,Pericarditis,,DOID:1787
+SYP003,Syphilis,,DOID:4166
+TST014,Testicular Cancer,,DOID:2998
+TRC086,Trichohepatoenteric Syndrome 1,222470,
+RHM028,Rheumatic Heart Disease,,DOID:14172
+SCK005,Sickle Cell Disease,,
+IMP005,Impotence,,DOID:1875
+LKN025,"Leukoencephalopathy, Hereditary Diffuse, with Spheroids",221820,
+CLC001,Calciphylaxis,,DOID:4734
+SCK002,Sick Sinus Syndrome,,DOID:13884
+HYP005,Hypokalemia,,DOID:4500
+HPT009,Hepatopulmonary Syndrome,,
+ANT034,Anterior Uveitis,,
+VRL007,Viral Encephalitis,,
+CTN003,Cutaneous Lupus Erythematosus,,DOID:0050169
+TRN034,Transverse Myelitis,,
+DDN001,Duodenal Ulcer,,DOID:1724
+FBR032,Fibromuscular Dysplasia,135580,
+STM007,Stomatitis,,DOID:9637
+PST095,Post-Thrombotic Syndrome,,DOID:2364
+OVR046,Ovarian Cyst,,DOID:5119
+HYP068,Hyperostosis,,
+VTM028,"Vitamin E, Familial Isolated Deficiency of",277460,DOID:0090028
+ILT001,Ileitis,,DOID:0060189
+PLR008,Pleurisy,,DOID:10247
+FNC043,"Fanconi Anemia, Complementation Group E",600901,DOID:0111084
+PRC012,Pericardial Effusion,,
+DBT004,Diabetic Polyneuropathy,,DOID:12785
+PLY017,Polyarteritis Nodosa,,DOID:9810
+NPH091,"Nephrolithiasis, Calcium Oxalate",167030,
+FML089,Familial Thoracic Aortic Aneurysm and Dissection,,
+GSG001,Gas Gangrene,,DOID:9159
+ATR005,Atrophic Gastritis,,DOID:8929
+END046,Endometritis,,DOID:1002
+OPN001,Open-Angle Glaucoma,,DOID:1067
+INT067,Interstitial Nephritis,,DOID:1063
+PST041,Posterior Urethral Valves,,
+STR072,Stromal Keratitis,,
+HYP043,Hyperandrogenism,,DOID:11613
+PPL049,Papillon-Lefevre Syndrome,245000,DOID:3389
+DNT012,Dental Caries,,
+ACT017,Acute Chest Syndrome,,DOID:1584
+HMC002,Homocystinuria,,DOID:9263
+CLD007,Cold Agglutinin Disease,,
+PRM108,Primary Progressive Multiple Sclerosis,,DOID:0050784
+SCL015,Scleritis,,DOID:13452
+HMS001,Hemosiderosis,,DOID:12119
+ACT068,Acute Cystitis,,DOID:13148
+URT031,Ureteral Disease,,DOID:1426
+IDP024,Idiopathic Inflammatory Myopathy,,
+CRV039,Cervicitis,,DOID:2568
+VRL012,Viral Meningitis,,DOID:10310
+PRD040,"Periodontitis, Chronic",260950,
+MTB004,Metabolic Acidosis,,DOID:0050758
+ACT164,Actinic Prurigo,174770,
+DBT006,Diabetic Macular Edema,,DOID:9191
+INH020,Inherited Metabolic Disorder,,
+PTT037,Pituitary Tumors,,
+PLM017,Pulmonary Alveolar Microlithiasis,265100,DOID:12117
+HYP740,"Hyperlipoproteinemia, Type V",144650,DOID:1171
+VND001,Vein Disease,,
+PRP036,Peripheral T-Cell Lymphoma,,
+AMY009,Amyloidosis Aa,,
+DWR001,Dwarfism,,
+CNT046,Central Nervous System Vasculitis,,
+DST006,Diastolic Heart Failure,,DOID:9775
+CHR431,Chronic Venous Insufficiency,,DOID:0050853
+HRM006,Hermansky-Pudlak Syndrome 3,614072,DOID:0060541
+DNG001,Dengue Shock Syndrome,,DOID:0050125
+NM001,Noma,,DOID:9672
+HYP458,Hyper Ige Syndrome,,
+NTR018,"Neutrophilia, Hereditary",162830,DOID:0090120
+ACD008,Acid-Labile Subunit Deficiency,615961,
+SPN119,Spondylarthropathy,,
+HYP085,Hypothalamic Disease,,DOID:1931
+FTL021,Fetal Macrosomia,,
+NSP002,Nasopharyngitis,,DOID:10460
+MTR002,Mitral Valve Insufficiency,,DOID:11502
+DDN006,Duodenitis,,DOID:8643
+RTN021,Retinal Vascular Occlusion,,DOID:1729
+PTN014,Patent Ductus Arteriosus 1,607411,DOID:13832
+CRD137,Cardiogenic Shock,,
+OBS037,Obesity-Hypoventilation Syndrome,257500,
+HRN001,Horner's Syndrome,,DOID:11486
+CNT015,Central Sleep Apnea,,DOID:9220
+ACQ022,Acquired Generalized Lipodystrophy,,
+SXL003,Sexual Disorder,,DOID:0060043
+ANL018,Analbuminemia,616000,
+MSN001,Mesangial Proliferative Glomerulonephritis,,DOID:4783
+DFF003,Diffuse Scleroderma,,DOID:1580
+MYX004,Myxedema,255900,DOID:11634
+ALP061,"Alopecia, Androgenetic, 1",109200,
+CRS001,Crescentic Glomerulonephritis,,DOID:13139
+MDS022,Mediastinitis,,
+CRT009,Critical Illness Polyneuropathy,,DOID:14402
+KRT008,Keratopathy,,DOID:2283
+TTR005,Tetrahydrobiopterin Deficiency,,
+MNN034,Mannose-Binding Lectin Deficiency,614372,
+OST062,Osteoarthritis with Mild Chondrodysplasia,604864,
+NRN002,Neuronitis,,DOID:8117
+CHR579,Chiari Malformation Type Ii,207950,
+IDP033,Idiopathic Edema,,
+DFF006,Diffuse Idiopathic Skeletal Hyperostosis,,DOID:6652
+ANC002,Anca-Associated Vasculitis,,
+HYP781,Hypoascorbemia,240400,DOID:13724
+CLP006,Clopidogrel Resistance,,
+MYL013,Myeloperoxidase Deficiency,254600,
+SPS219,"Spastic Paraplegia 17, Autosomal Dominant",270685,DOID:0110770
+ART018,Aortic Valve Insufficiency,,
+CRB086,Cerebral Aneurysms,,
+ERL029,"Early-Onset, Autosomal Dominant Alzheimer Disease",,
+TND005,Tendinitis,,
+BCL014,B-Cell Growth Factor,109540,
+HMF004,Hemifacial Spasm,,
+LTH045,"Lutheran Suppressor, X-Linked",309050,
+CHR413,Chronic Myocardial Ischemia,,
+SHW001,Shwartzman Phenomenon,,DOID:3825
+RHM014,Rheumatoid Vasculitis,,
+ALX002,Alexithymia,,DOID:0060131
+PTC002,Potocki-Lupski Syndrome,610883,
+ATM022,Autoimmune Myocarditis,,
+FNS001,Funisitis,,DOID:0050698
+CNT028,Central Retinal Artery Occlusion,,DOID:13098
+PST055,Postural Hypotension,,
+STC004,Stachybotrys Chartarum,,
+CHR096,Chronic Pulmonary Heart Disease,,DOID:12326
+LNG057,Long Qt Syndrome 13,613485,DOID:0110654
+MRN002,Mooren's Ulcer,,DOID:10439
+ACL001,Acalculous Cholecystitis,,DOID:2828
+PLY112,"Polyarteritis Nodosa, Childhood-Onset",615688,
+ALN001,Aland Island Eye Disease,300600,DOID:0050630
+IMM001,Immune-Complex Glomerulonephritis,,DOID:4784
+MLT002,Multiple Symmetrical Lipomatosis,,DOID:3137
+LKS001,Leukostasis,,DOID:12986
+SKN006,Skin Sarcoidosis,,DOID:13402
+AMN002,Amino Acid Metabolic Disorder,,DOID:9252
+GRN009,Granulomatous Hepatitis,,DOID:2239
+HYP064,Hypogonadotropism,,DOID:7455
+RNL097,Renal Artery Disease,,DOID:2388
+LSB001,Louse-Borne Relapsing Fever,,DOID:13035
+ALC010,Alcoholic Cardiomyopathy,,DOID:12935
+BLD051,Blood Coagulation Disease,,DOID:1247
+XNT009,Xanthoma Disseminatum,,
+CRT004,Carotid Artery Thrombosis,,DOID:3410
+ALP041,"Alopecia, Neurologic Defects, and Endocrinopathy Syndrome",612079,
+PRG003,Progesterone-Receptor Negative Breast Cancer,,DOID:0060078
+HYP396,"Hypercholesterolemia, Autosomal Recessive",603813,DOID:0090105
+SLT014,Salt and Pepper Developmental Regression Syndrome,609056,
+SBC035,Subacute Cutaneous Lupus Erythematosus,,
+CMP028,Complement Component 2 Deficiency,217000,DOID:0060295
+CRB194,Cerebroretinal Microangiopathy with Calcifications and Cysts 1,612199,
+CRC039,Coarctation of Aorta,120000,
+AML044,"Amelogenesis Imperfecta, Type Ig",204690,DOID:0110066
+HNT004,Huntington Disease-Like 2,606438,DOID:0090104
+LPT014,Leptin Deficiency or Dysfunction,614962,
+CMP090,"Complement Component 3 Deficiency, Autosomal Recessive",613779,
+HPT020,Hepatic Vascular Disease,,
+VSC008,Vascular Hemostatic Disease,,
+DNS007,Dense Deposit Disease,,
+APL017,Apolipoprotein C-Ii Deficiency,207750,
+MLT151,Multiple Mitochondrial Dysfunctions Syndrome 5,617613,
+INF013,Inferior Myocardial Infarction,,DOID:5850
+PHG002,Phagocyte Bactericidal Dysfunction,,DOID:3262
+HRP025,Herpes Simplex Virus Keratitis,,DOID:0080158
+HYP072,Hypersensitivity Reaction Type Iii Disease,,DOID:1557
+ACT036,Acute Cholangitis,,DOID:14271
+DYS013,Dysbaric Osteonecrosis,,DOID:0080018
+HYP114,Hypertensive Nephropathy,608026,
+EPT021,Epithelial Recurrent Erosion Dystrophy,122400,
+HNT011,Huntington Disease-Like 3,604802,
+SPL006,Splenic Infarction,,DOID:2533
+LYM045,Lymphocytic Vasculitis,,
+MNG003,Mungan Syndrome,611376,
+SPN331,Spondyloocular Syndrome,605822,
+LKC003,Leukocyte Disease,,DOID:9500
+HMP001,Hemopericardium,,DOID:11482
+BCT020,Bacteremia 2,614383,
+TRC078,Trichohepatoenteric Syndrome 2,614602,
+SCR039,Scorpion Envenomation,,
+ACT209,Acatalasemia,614097,DOID:2582
+EXT035,Extrinsic Cardiomyopathy,,DOID:3978
+MLT009,Multiple Cranial Nerve Palsy,,DOID:13866
+AGR019,Age-Related Hearing Loss,,
+ANG066,Angel-Shaped Phalangoepiphyseal Dysplasia,105835,
+CTR102,"Cataract 2, Multiple Types",604307,DOID:0110235
+HRT008,Heart Conduction Disease,,DOID:10273
+CRN006,Coronary Aneurysm,,DOID:3362
+IDP041,Idiopathic Recurrent Pericarditis,,
+RNL001,Renal Artery Obstruction,,DOID:2972
+SBD001,Subdural Empyema,,DOID:11389
+BRK012,Broken Heart Syndrome,,
+SBN001,Subendocardial Myocardial Infarction,,DOID:5849
+CHR013,Chronic Apical Periodontitis,,DOID:11269
+PRL001,Purulent Labyrinthitis,,DOID:13534
+ATM068,Autoimmune Hypoparathyroidism,,
+PYS001,Pyosalpinx,,DOID:5732
+PLY105,Polycystic Ovary Syndrome 1,184700,
+LPG001,Lipogranulomatosis,,
+PLT031,Platelet Membrane Fluidity,173560,
+ANR010,Aneurysm of Sinus of Valsalva,,
+TRT003,Tertiary Syphilis,,DOID:8200
+MLG042,Malignant Otitis Externa,,DOID:10516
+PRM092,"Primary Lateral Sclerosis, Adult, 1",611637,
+CRB031,Cerebral Arterial Disease,,DOID:3527
+SCL022,Scleredema,,
+ART028,"Aortic Aneurysm, Familial Thoracic 4",132900,
+SPR024,Supratentorial Cancer,,DOID:1659
+CLS047,Classic Progressive Supranuclear Palsy Syndrome,,
+BRN041,Bornholm Eye Disease,300843,
+FTT008,"Fatty Liver Disease, Nonalcoholic 1",613282,
+PLM064,Pulmonary Sequestration,,
+INT053,Intracranial Vasospasm,,DOID:13100
+XLN206,X-Linked Intellectual Disability-Macrocephaly-Macroorchidism Syndrome,,
+HYP002,Hypothalamic Neoplasm,,DOID:3644
+RDN004,Radin Blood Group Antigen,111620,
+SKN010,Skin Epithelioid Hemangioma,,DOID:14308
+MLG003,Malignant Renovascular Hypertension,,DOID:13730
+FML206,Familial Cerebral Saccular Aneurysm,,
+GRW032,"Growth Factors, Combined Defect of",233805,
+ART134,"Aortic Aneurysm, Familial Thoracic 10",617168,
+EPS033,"Episodic Ataxia, Type 8",616055,DOID:0050996
+MRB006,Morbid Obesity and Spermatogenic Failure,615703,
+PGT011,Paget Disease of Bone 6,616833,
+LPD028,Lipodystrophy Due to Peptidic Growth Factors Deficiency,,
+3P2001,3p25.3 Microdeletion Syndrome,,
+HYP163,Hyperlipidemia Type 3,,
+ART071,"Aortic Aneurysm, Familial Thoracic 6",611788,
+LTH004,Lathyrism,,
+GST056,Gastrocutaneous Syndrome,137270,
+INB001,Inborn Amino Acid Metabolism Disorder,,
+VSC001,Vascular Myelopathy,,
+ATY022,Atypical Coarctation of Aorta,,
+AMN012,Aminoacidopathies,,
+CNG336,Congenital Analbuminemia,,
+ANR037,Aneurysm or Dilatation of Ascending Aorta,,
+CRT043,Carotid Intimal Medial Thickness 1,609338,
+PLS026,Plasma Fibronectin Deficiency,614101,
+VSC009,Vascular Skin Disease,,DOID:9540
+PRP050,Peripheral Arterial Occlusive Disease 1,606787,

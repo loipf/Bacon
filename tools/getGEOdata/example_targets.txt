@@ -1,0 +1,12 @@
+sampleId	group	age	gender...
+sample1	Ruptured Plaque	67	male
+sample2	Ruptured Plaque	63	male
+sample3	Ruptured Plaque	53	male
+GSM1019542	Ruptured Plaque	74	female
+GSM1019543	Ruptured Plaque	73	female
+GSM1019544	Stable Plaque	45	female
+GSM1019545	Stable Plaque	58	male
+GSM1019546	Stable Plaque	67	male
+GSM1019547	Stable Plaque	73	male
+GSM1019548	Stable Plaque	68	female
+GSM1019549	Stable Plaque	59	male
